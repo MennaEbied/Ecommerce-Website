@@ -26,7 +26,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="bg-white z-40 relative duration-200 dark:bg-gray-900 dark:text-white">
+    <div className="bg-white z-40 relative duration-200 dark:bg-gray-900 dark:text-white px-4">
       <div className="py-2">
         <div className="container flex justify-between items-center mx-auto px-5">
           {/* Logo and links */}
