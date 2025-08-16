@@ -1,6 +1,6 @@
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Stage } from "@react-three/drei";
-import { Model } from "./Gaming_headphone.jsx";
+import { Model } from "../3dModels/Gaming_headphone";
 
 const HeroLights = () => {
   return (
